@@ -1,2 +1,2 @@
-﻿Worawat\n
+﻿Worawat
 -------
